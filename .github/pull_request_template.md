@@ -2,7 +2,7 @@
 
 ## Description
 
-<!--- Explain the changes you made in detail -->
+<!-- Explain the changes you made in detail -->
 
 ## Types of changes
 
