@@ -2,17 +2,18 @@
 
 ## Description
 
-<!--- Explain the changes you made in detail -->
+<!-- Explain the changes you made in detail -->
 
 ## Types of changes
 
 <!-- What types of changes does your code introduce ? -->
 
 - [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] Simple fix for a non-critical issue
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
 
-## Checklist:
+## Checklist
 
 <!-- Review all of the following points, and put an `x' in all the boxes that apply. -->
 
